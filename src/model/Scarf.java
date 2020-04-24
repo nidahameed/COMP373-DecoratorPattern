@@ -9,7 +9,7 @@ public class Scarf extends AccessoriesDecorator {
 		}
 		
 		public String getDescription() {
-			return outfit.getDescription() + ", Scarf ";
+			return outfit.getDescription() + ", Scarf";
 		}
 		
 		public int getCost() {

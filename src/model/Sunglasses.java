@@ -9,7 +9,7 @@ public class Sunglasses extends AccessoriesDecorator {
 		}
 		
 		public String getDescription() {
-			return outfit.getDescription() + ", Sunglasses ";
+			return outfit.getDescription() + ", Sunglasses";
 		}
 		
 		public int getCost() {
